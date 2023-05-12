@@ -20,4 +20,5 @@ I didn't realize Safari [updated its UI [Preferences > Tabs > Compact] ](https:/
 - Adaptive page colour tab bar
 <br>
 
-https://github.com/qqap/min/assets/116848054/8e9546b5-4a1e-4e5c-829a-1750d74cc7f3
+https://github.com/qqap/circ/assets/116848054/373a5323-37ed-4e69-b53e-ac28f7666c88
+
