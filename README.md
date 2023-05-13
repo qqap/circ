@@ -22,3 +22,5 @@ I didn't realize Safari [updated its UI [Preferences > Tabs > Compact] ](https:/
 
 https://github.com/qqap/circ/assets/116848054/373a5323-37ed-4e69-b53e-ac28f7666c88
 
+Fork of [Min](https://github.com/minbrowser/min)
+
